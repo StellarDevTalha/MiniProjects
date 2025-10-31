@@ -6,7 +6,7 @@
 }
 
 body{
-    background: -o-linear-gradient( 135deg, #1f1c2c, #928dab);
+    background: linear-gradient( 135deg, #1f1c2c, #928dab);
     color: white;
     height: 100vh;
     display: flex;
@@ -14,7 +14,7 @@ body{
     justify-content: center;
 }
 
-.heri{
+.hero{
     text-align: center;
     padding: 30px;
 }
